@@ -1,6 +1,7 @@
 # HR-LP
 # Implementation for 'Preference-Aware Delivery Planning for Last-Mile Logistics'.
-# cite as  
+# To cite this repository in publications:  
+
 @inproceedings{shao2023preference,
   title={Preference-Aware Delivery Planning for Last-Mile Logistics},
   author={Shao, Qian and Cheng, Shih-Fen},
